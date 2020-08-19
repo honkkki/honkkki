@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning PHP Go ...
 - 📫 How to reach me: E-mail Instagram
 - 📷 Instagram: honkkki
-- 🎵 Like Hip-Hop
+- 🎵 Hip-Hop JayChou
 
 
 <!--
