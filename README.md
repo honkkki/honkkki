@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning PHP Go ...
 - 📫 How to reach me: E-mail 
-- 🎵 Hip-Hop JayChou
 
 
 <!--
