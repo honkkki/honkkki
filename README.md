@@ -4,7 +4,7 @@
 
 **Thanks for visiting my GitHub profile**  😊
 
-- 🌱 I’m currently learning PHP Go ...
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: E-mail 
 
 
