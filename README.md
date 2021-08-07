@@ -4,7 +4,7 @@
 
 **Thanks for visiting my GitHub profile**  😊
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go Rust...
 - 📫 How to reach me: E-mail 
 
 ![](https://raw.githubusercontent.com/honkkki/go-practice/master/go.jpg)
