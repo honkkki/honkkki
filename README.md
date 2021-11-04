@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: E-mail 
 
-![](https://raw.githubusercontent.com/honkkki/go-practice/master/go.jpg)
+![](https://raw.githubusercontent.com/honkkki/go-practice/master/img/demo.gif)
 
 <!--
 **honkkki/honkkki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
